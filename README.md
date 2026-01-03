@@ -1,4 +1,4 @@
-                                                                            👁️ Diabetic Retinopathy Detection System
+👁️ Diabetic Retinopathy Detection System
                                                                             
   An AI-powered web application for automated detection and severity classification of Diabetic Retinopathy (DR) from retinal fundus images using Deep Learning and Machine Learning techniques.
 
