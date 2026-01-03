@@ -1,6 +1,6 @@
 👁️ Diabetic Retinopathy Detection System
                                                                             
-  An AI-powered web application for automated detection and severity classification of Diabetic Retinopathy (DR) from retinal fundus images using Deep Learning and Machine Learning techniques.
+  An AI-powered web application for automated detection and severity classification of Diabetic Retinopathy (DR) from retinal fundus images using Deep Learning and   Machine Learning techniques.
 
 📌 Project Overview
 
@@ -23,19 +23,19 @@
 
 
 
-  📁 Upload retinal fundus images (JPG / PNG / JPEG)  
+  • 📁 Upload retinal fundus images (JPG / PNG / JPEG)  
   
-  🧠 Automatic image preprocessing and feature extraction
+  • 🧠 Automatic image preprocessing and feature extraction
   
-  📊 Classification into 5 DR stages (0–4)
+  • 📊 Classification into 5 DR stages (0–4)
   
-  📈 Confidence distribution visualization
+  • 📈 Confidence distribution visualization
   
-  📋 Detailed medical recommendations and risk analysis
+  • 📋 Detailed medical recommendations and risk analysis
   
-  🎨 Modern and responsive Streamlit UI
+  • 🎨 Modern and responsive Streamlit UI
   
-  ⚡ Fast and real-time prediction
+  • ⚡ Fast and real-time prediction
   
 
 🧠 DR Severity Levels
