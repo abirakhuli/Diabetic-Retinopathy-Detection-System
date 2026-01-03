@@ -2,6 +2,9 @@
                                                                             
   An AI-powered web application for automated detection and severity classification of Diabetic Retinopathy (DR) from retinal fundus images using Deep Learning and   Machine Learning techniques.
 
+  Live Link: https://diabetic-retinopathy-detection-system.streamlit.app/
+
+
 📌 Project Overview
 
   Diabetic Retinopathy (DR) is a serious eye disease caused by diabetes and can lead to blindness if not detected early.
