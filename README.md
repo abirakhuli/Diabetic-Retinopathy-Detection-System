@@ -23,19 +23,19 @@
 
 
 
-  • 📁 Upload retinal fundus images (JPG / PNG / JPEG)  
-  
-  • 🧠 Automatic image preprocessing and feature extraction
-  
-  • 📊 Classification into 5 DR stages (0–4)
-  
-  • 📈 Confidence distribution visualization
-  
-  • 📋 Detailed medical recommendations and risk analysis
-  
-  • 🎨 Modern and responsive Streamlit UI
-  
-  • ⚡ Fast and real-time prediction
+      • 📁 Upload retinal fundus images (JPG / PNG / JPEG)  
+      
+      • 🧠 Automatic image preprocessing and feature extraction
+      
+      • 📊 Classification into 5 DR stages (0–4)
+      
+      • 📈 Confidence distribution visualization
+      
+      • 📋 Detailed medical recommendations and risk analysis
+      
+      • 🎨 Modern and responsive Streamlit UI
+      
+      • ⚡ Fast and real-time prediction
   
 
 🧠 DR Severity Levels
