@@ -1,0 +1,13 @@
+# General Data Science & Utility
+pandas
+numpy
+scikit-learn
+opencv-python-headless  # For image handling (optional if using only PIL)
+
+# Deep Learning (CNN)
+tensorflow
+Keras
+
+# Streamlit Application
+streamlit
+Pillow
