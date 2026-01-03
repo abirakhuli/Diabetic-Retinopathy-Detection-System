@@ -541,7 +541,7 @@ if st.session_state.get('prediction_made', False):
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 20px; font-size: 0.9rem;">
-    <p>👁️ <strong>Diabetic Retinopathy Detector Pro v2.1</strong> | Powered by Abir AKhuli | For educational and research purposes only</p>
+    <p>👁️ <strong>Diabetic Retinopathy Detector Pro v2.1</strong> | Powered by Abir Akhuli | For educational and research purposes only</p>
     <p style="font-size: 0.8rem; margin-top: 10px;">⚠️ This tool should be used under medical supervision</p>
 </div>
 """, unsafe_allow_html=True)
@@ -570,3 +570,4 @@ if uploaded_file is None:
         - The tool works best with high-quality retinal scans
 
         """)
+
